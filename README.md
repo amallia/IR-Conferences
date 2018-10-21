@@ -12,6 +12,7 @@
 | ADCS      | N/D      |        | 8 (full), 4 (short)  | Oct | | |
 | ICTIR     | N/D      |    
 | CHIIR     | N/D      |        | 8 (full), 4 (short)  | Sept/Oct |
+| KDIR      | N/D      |        | 4 - 12               | Apr      | | |   
 ## Templates
 
 [LNCS](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
