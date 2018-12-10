@@ -13,6 +13,7 @@
 | ICTIR     | N/D      |    
 | CHIIR     | N/D      |        | 8 (full), 4 (short)  | Sept/Oct |
 | KDIR      | N/D      |        | 4 - 12               | Apr      | | |   
+| DaWaK     | B        |        | 15 (full), 8 (short) | March
 ## Templates
 
 [LNCS](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
