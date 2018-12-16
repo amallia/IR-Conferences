@@ -15,6 +15,8 @@
 | KDIR      | N/D      |        | 4 - 12               | Apr      | | |   
 | DaWaK     | B        |        | 15 (full), 8 (short) | March
 | DEXA      | B        |        | 15 (full), 8 (short) | March
+| IIR       | N/D      |        | 12 (full), 8 (short), 4 (Extended abstract) | April
+
 
 ## Templates
 
