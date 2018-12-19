@@ -16,6 +16,7 @@
 | DaWaK     | B        | International Conference on Big Data Analytics and Knowledge Discovery | 15 (full), 8 (short) | March
 | DEXA      | B        | International Conference on Database and Expert Systems Applications | 15 (full), 8 (short) | March
 | IIR       | N/D      | Italian Information Retrieval Workshop | 12 (full), 8 (short), 4 (Extended abstract) | April
+| TIR       | N/D      | International Workshop on Technologies for Information Retrieval | 5 | April
 
 
 ## Templates
