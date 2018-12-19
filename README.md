@@ -4,7 +4,7 @@
 | --------- | -------- | ----------- | --------------- | --------------- | -------- | ---- |
 | SIGIR     | A+       |        | 10 (full), 4 (short) | Jan/Feb         | ACM |
 | WSDM      | A+       |        | 8                    | Aug             | ACM |
-| WWW       | A+       |        | 10                   | Oct/Nov         | ACM  | |
+| WWW       | A+       |        | 10 (full), 6 (short) | Oct/Nov         | ACM  | |
 | ECIR      | A        |        | 12 (full), 6 (short) | Sept/Oct        | LNCS | Reproducibility Track |
 | CIKM      | A        |        | 10 (full), 4 (short) | May             | ACM | |
 | SPIRE     | B        | SPIRE 2018 covers research in all aspects of string processing, information retrieval, computational biology, and related applications. | 12 (full), 6 (short) | May             | LNCS | 
