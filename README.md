@@ -13,8 +13,8 @@
 | ICTIR     | N/D      |    
 | CHIIR     | N/D      |        | 8 (full), 4 (short)  | Sept/Oct |
 | KDIR      | N/D      |        | 4 - 12               | Apr      | | |   
-| DaWaK     | B        |        | 15 (full), 8 (short) | March
-| DEXA      | B        |        | 15 (full), 8 (short) | March
+| DaWaK     | B        | International Conference on Big Data Analytics and Knowledge Discovery | 15 (full), 8 (short) | March
+| DEXA      | B        | International Conference on Database and Expert Systems Applications | 15 (full), 8 (short) | March
 | IIR       | N/D      | Italian Information Retrieval Workshop | 12 (full), 8 (short), 4 (Extended abstract) | April
 
 
