@@ -9,7 +9,7 @@
 | CIKM      | A        |        | 10 (full), 4 (short) | May             | ACM | |
 | SPIRE     | B        | SPIRE 2018 covers research in all aspects of string processing, information retrieval, computational biology, and related applications. | 12 (full), 6 (short) | May             | LNCS | 
 | DESIRES   | N/D      | A systems-oriented biennial conference, complementary in its mission to the mainstream Information Access and Retrieval conferences, emphasizing the innovative technological aspects of search and retrieval systems.| 6 | Apr | | |
-| ADCS      | N/D      |        | 8 (full), 4 (short)  | Oct | | |
+| ADCS      | Australasian |        | 8 (full), 4 (short)  | Oct | | |
 | ICTIR     | N/D      |    
 | CHIIR     | N/D      |        | 8 (full), 4 (short)  | Sept/Oct |
 | KDIR      | N/D      |        | 4 - 12               | Apr      | | |   
