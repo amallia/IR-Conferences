@@ -8,10 +8,10 @@
 | ECIR      | A        |        | 12 (full), 6 (short) | Sept/Oct        | LNCS | Reproducibility Track |
 | CIKM      | A        |        | 10 (full), 4 (short) | May             | ACM | |
 | SPIRE     | B        | SPIRE 2018 covers research in all aspects of string processing, information retrieval, computational biology, and related applications. | 12 (full), 6 (short) | May             | LNCS | 
-| DESIRES   | N/D      | A systems-oriented biennial conference, complementary in its mission to the mainstream Information Access and Retrieval conferences, emphasizing the innovative technological aspects of search and retrieval systems.| 6 | Apr | | |
-| ADCS      | Australasian |        | 8 (full), 4 (short)  | Oct | | |
-| ICTIR     | N/D      |    
-| CHIIR     | N/D      |        | 8 (full), 4 (short)  | Sept/Oct |
+| DESIRES   | N/D      | A systems-oriented biennial conference, complementary in its mission to the mainstream Information Access and Retrieval conferences, emphasizing the innovative technological aspects of search and retrieval systems.| 6, 1 (extended abstract) | Apr | ACM | Runs every 2 years on the 'even' years ('18, '20, '22, ...) |
+| ADCS      | Australasian |        | 8 (full), 4 (short)  | Oct | ACM | |
+| ICTIR     | N/D      |  Focuses on the theory of IR |   8 (full), 4 (short)  | Apr/May | ACM | |
+| CHIIR     | N/D      |  Focuses on human interaction with IR systems | 8 (full), 4 (short)  | Sept/Oct | ACM | |
 | KDIR      | N/D      |        | 4 - 12               | Apr      | | |   
 | DaWaK     | B        | International Conference on Big Data Analytics and Knowledge Discovery | 15 (full), 8 (short) | March | LNCS |
 | DEXA      | B        | International Conference on Database and Expert Systems Applications | 15 (full), 8 (short) | March | LNCS |
