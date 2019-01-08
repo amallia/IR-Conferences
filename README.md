@@ -5,6 +5,7 @@
 | SIGIR     | A+       | Special Interest Group on Information Retrieval | 10 (full), 4 (short) | Jan/Feb         | ACM |
 | WSDM      | A+       | International Conference on Web Search and Data Mining | 8                    | Aug             | ACM |
 | WWW       | A+       | The Web Conference | 10 (full), 6 (short) | Oct/Nov         | ACM  | |
+| ICDE      | A+       | IEEE International Conference on Data Engineering | 12 (full) | Sept/Oct | IEEE  | Papers can be accepted as short |
 | ECIR      | A        | European Conference on Information Retrieval | 12 (full), 6 (short) | Sept/Oct        | LNCS | Reproducibility Track |
 | CIKM      | A        | International Conference on Information and Knowledge Management | 10 (full), 4 (short) | May             | ACM | |
 | SPIRE     | B        | SPIRE covers research in all aspects of string processing, information retrieval, computational biology, and related applications. | 12 (full), 6 (short) | May             | LNCS | 
