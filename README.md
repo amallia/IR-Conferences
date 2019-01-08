@@ -15,7 +15,7 @@
 | KDIR      | C        | International Conference on Knowledge Discovery and Information Retrieval | 4 - 12               | Apr      | SCITEPRESS | KDIR is part of IC3K |   
 | DaWaK     | B        | International Conference on Big Data Analytics and Knowledge Discovery | 15 (full), 8 (short) | March | LNCS |
 | DEXA      | B        | International Conference on Database and Expert Systems Applications | 15 (full), 8 (short) | March | LNCS |
-| IIR       | N/D      | Italian Information Retrieval Workshop | 12 (full), 8 (short), 4 (Extended abstract) | April
+| IIR       | N/D      | Italian Information Retrieval Workshop | 12 (full), 8 (short), 4 (Extended abstract) | April | LNCS | Already published results allowed for extended abstract
 | TIR       | N/D      | International Workshop on Technologies for Information Retrieval | 5 | April | LNCS |
 
 
