@@ -18,7 +18,7 @@
 | DEXA      | B        | International Conference on Database and Expert Systems Applications | 15 (full), 8 (short) | March | LNCS |
 | IIR       | N/D      | Italian Information Retrieval Workshop | 12 (full), 8 (short), 4 (Extended abstract) | April | LNCS | Already published results allowed for extended abstract
 | TIR       | N/D      | International Workshop on Technologies for Information Retrieval | 5 | April | LNCS |
-
+| NLPIR     | N/D      | International Conference on Natural Language Processing and Information Retrieval | 4-8 | April | ACM |  
 
 ## Templates
 
