@@ -14,6 +14,7 @@
 | ADCS      | Australasian | Australasian Document Computing Symposium | 8 (full), 4 (short)  | Oct | ACM | |
 | ICTIR     | N/D      |  Focuses on the theory of IR |   8 (full), 4 (short)  | Apr/May | ACM | |
 | CHIIR     | N/D      |  Focuses on human interaction with IR systems | 8 (full), 4 (short)  | Sept/Oct | ACM | |
+| CLEF      | N/D      |  Conference and Labs of the Evaluation Forum | 12 (full), 6 (short)  | Apr | LNCS | |
 | KDIR      | C        | International Conference on Knowledge Discovery and Information Retrieval | 4 - 12               | Apr      | SCITEPRESS | KDIR is part of IC3K |   
 | DaWaK     | B        | International Conference on Big Data Analytics and Knowledge Discovery | 15 (full), 8 (short) | March | LNCS |
 | DEXA      | B        | International Conference on Database and Expert Systems Applications | 15 (full), 8 (short) | March | LNCS |
